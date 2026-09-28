@@ -1,0 +1,20 @@
+{
+  "repo": "flux-kontext-ext-reverse-api-es",
+  "model": "flux-kontext-max",
+  "display": "FLUX Kontext Max",
+  "route": "reverse",
+  "variant": "flux-kontext-ext",
+  "snapshot": "2026-09-28",
+  "unit": "usd_per_image",
+  "tiers": {
+    "1K": 0.064
+  },
+  "variants": {
+    "default": [
+      "1K"
+    ]
+  },
+  "official_counterpart": "—（平台直连）",
+  "effective_note": "official route billed at ×0.8 group ratio; reverse route is flat per unit",
+  "source": "https://go.apimart.ai/k-29ec51"
+}
